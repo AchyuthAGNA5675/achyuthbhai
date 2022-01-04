@@ -12,13 +12,6 @@ int main()
   printf("Hello World-----added new line");
   printf("Hello World-----added new line");
   printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
-  printf("Hello World-----added new line");
+
   return 0;
 }
